@@ -1,0 +1,91 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+build/
+Build/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code workspace
+*.code-workspace
+
+# IIS Express
+/.vs/
+iisexpress/
+
+# Rider caches
+.idea/
+
+# StyleCop
+StyleCopReport.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+resharper-*.xml
+
+# DotCover
+*.dotCover
+
+# Coverage
+*.coverage
+*.coveragexml
+coverage*.xml
+*.lcov
+
+# Test results
+TestResults/
+*.trx
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ASP.NET publish folder
+publish/
+
+# EF Migrations
+Migrations/  
+*.db
+
+# Rider settings
+.idea/
+
+# Dotnet Core
+project.lock.json
+global.json
+.nuget/
+.nuget/packages/
+
+# User secrets
+secrets.json
+*.secret
+
+# Generated files
+**/GeneratedArtifacts/
